@@ -1,0 +1,4 @@
+Patient ID: 101
+Patient Name: Rahul Sharma
+Age: 35
+Diagnosis: Fever

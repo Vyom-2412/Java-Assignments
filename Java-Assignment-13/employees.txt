@@ -1,0 +1,4 @@
+Employee ID: 220
+Employee Name: Vyom
+Department: CSE
+Salary: 75000.0
