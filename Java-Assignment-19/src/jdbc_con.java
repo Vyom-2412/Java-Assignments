@@ -6,7 +6,7 @@ public class jdbc_con {
         Class.forName("com.mysql.cj.jdbc.Driver");
         String db = "jdbc:mysql://localhost:3306/college";
         String user = "root";
-        String password = "vyom@2412";
+        String password = "password";
         try {
             Connection con = DriverManager.getConnection(db, user, password);
             System.out.println("Connection established");
